@@ -64,7 +64,7 @@ In this section, I will go through all of the requirements that were set, whethe
     - resampling the image
     - translating the resampled image to a WEBP driver but kept encountering this error:
         
-        ![Untitled](Documentation%2097336ef917a14f039c96482e4fccbf66/Untitled.png)
+        ![Untitled](https://github.com/aalipie/OpenCosmosChallenge/blob/main/Untitled.png?raw=true)
         
 - I then tried to resample with rasterio using the Resampling class and example from the documentation, but realised this just changed the cells and not the pixels
 
